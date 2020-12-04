@@ -9,7 +9,9 @@ Part of a challenge from https://scotch.io/bar-talk/code-challenge-16-infinite-s
 ```bash
 # Install Node dependencies
 npm install
+
 # Install React dependencies
+npm run client-install
 
 # Go into config/server and add your own API keys for Unsplash
 
